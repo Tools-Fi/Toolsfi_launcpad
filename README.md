@@ -1,5 +1,4 @@
-Official Tools-Fi Launcpad
-[Launchpad] Tools-Fi Beta Testnet 1.5.7
+Official [Launchpad] Tools-Fi Beta Testnet 1.5.7
 
  Link Launchpad : 
 
